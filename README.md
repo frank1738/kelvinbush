@@ -1,4 +1,4 @@
-# Hi there, I'm Kelvin! 🏿👋🏿
+# Hi there, I'm Kelvin! 👋🏿
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kelvinbush&show_icons=true&theme=merko" />
 
