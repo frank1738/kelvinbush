@@ -1,8 +1,10 @@
 # Hi there, I'm Kelvin! 👋🏿
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kelvinbush&show_icons=true&theme=merko" />
+<div style="height:200px;">
+ <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kelvinbush&show_icons=true&theme=merko" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinbush&layout=compact" />
+</div>
 
 <img align="left" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
