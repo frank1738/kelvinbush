@@ -2,10 +2,9 @@
 <p align="center">
    <a href="https://github.com/shoirata">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvinbush&show_icons=true&theme=merko"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinbush&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinbush&hide=javascript,html&layout=compact"/>
   </a>
 </p>
-
 <img align="left" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 
 <img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
